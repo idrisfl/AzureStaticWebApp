@@ -1,2 +1,2 @@
 # AzureStaticWebApp
-A test Azure static web app
+A test Azure static web app using an Angular template
